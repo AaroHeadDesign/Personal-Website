@@ -1,0 +1,12 @@
+body {
+    font-family: Avant Garde,Gill Sans,Century Gothic,sans-serif;
+}
+
+.cs {
+    color: cyan;
+}
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+}

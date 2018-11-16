@@ -1,5 +1,15 @@
 body {
+    color: #1D1D18;
     font-family: Avant Garde,Gill Sans,Century Gothic,sans-serif;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    text-transform: uppercase;
 }
 
 .cs {
